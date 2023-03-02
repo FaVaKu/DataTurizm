@@ -7,7 +7,7 @@ import os
 
 
 
-TOKEN_BOT = '5729656929:AAHSxglQG-DeuNCWOlENB91H8usjvoAzkps'
+TOKEN_BOT = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 bot = TeleBot(TOKEN_BOT)
 bot.set_webhook()
 
